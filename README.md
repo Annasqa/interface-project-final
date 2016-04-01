@@ -1,8 +1,8 @@
-### Basic Project2
+### Interface Project Final
 
-### March 26
+### March 31
 
-A Basic Structure for Maven Projects
+ Project which uses interface.
 
 * Git
 * Java 7
